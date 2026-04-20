@@ -49,6 +49,4 @@ void loop() {
     }
   }
   esp_task_wdt_reset();
-
-
 }
